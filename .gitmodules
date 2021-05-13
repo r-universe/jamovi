@@ -8,10 +8,8 @@
 	url = https://github.com/jamovi/jmvcore
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "walrus"]
 	path = walrus
 	url = https://github.com/jamovi/walrus
 	shallow = true
 	registered = true
-	oncran = true

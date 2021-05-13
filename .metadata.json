@@ -1,0 +1,10 @@
+[
+  {
+    "package": "jmvcore",
+    "oncran": true
+  },
+  {
+    "package": "walrus",
+    "oncran": true
+  }
+]
