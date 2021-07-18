@@ -1,5 +1,9 @@
 [
   {
+    "package": "jmv",
+    "oncran": true
+  },
+  {
     "package": "jmvcore",
     "oncran": true
   },
