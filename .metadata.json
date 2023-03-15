@@ -1,14 +1,14 @@
 [
   {
+    "package": "jmv",
+    "oncran": true
+  },
+  {
     "package": "jmvcore",
     "oncran": true
   },
   {
     "package": "walrus",
-    "oncran": true
-  },
-  {
-    "package": "jmv",
     "oncran": true
   }
 ]

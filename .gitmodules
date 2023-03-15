@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "jmv"]
+	path = jmv
+	url = https://github.com/jamovi/jmv
+	shallow = true
+	registered = true
 [submodule "jmvcore"]
 	path = jmvcore
 	url = https://github.com/jamovi/jmvcore
@@ -11,10 +16,5 @@
 [submodule "walrus"]
 	path = walrus
 	url = https://github.com/jamovi/walrus
-	shallow = true
-	registered = true
-[submodule "jmv"]
-	path = jmv
-	url = https://github.com/jamovi/jmv
 	shallow = true
 	registered = true
