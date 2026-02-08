@@ -5,9 +5,6 @@
 [submodule "jmv"]
 	path = jmv
 	url = https://github.com/jamovi/jmv
-[submodule "jmvcore"]
-	path = jmvcore
-	url = https://github.com/jamovi/jmvcore
 [submodule "walrus"]
 	path = walrus
 	url = https://github.com/jamovi/walrus
